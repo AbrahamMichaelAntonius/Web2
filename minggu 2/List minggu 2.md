@@ -1,4 +1,12 @@
 # Praktikum
--if.php
+-If.php
+-If Else.php
+-If Kramat.php
+-If Variable.php
+-For.php
+-Switch Date.php
+-While.php
+-Down While.php
+-Break.php
 # Latihan
--perulangan.php
+-Perulangan For.php
