@@ -1,9 +1,11 @@
 <html>
 <head>
-<title>FAKTORIAL MENGGUNAKAN FOR</title>
+<title>FAKTORIAL MENGGUNAKAN WHILE</title>
 </head>
 <body>
-<h1>FAKTORIAL MENGGUNAKAN FOR</h1> 
+<h1>FAKTORIAL MENGGUNAKAN WHILE</h1> 
+</head>
+<body>
 <form name="frm01" method="post">
 <table>
 <tr>
@@ -24,7 +26,10 @@ if($_POST['hasil']!=''){
                         $hasil=1;
                         return $hasil;
             }elseif($angka>1){
-                        for($i=1; $i<=$angka; $i++){
+                        $i=1;
+                        while($i<=5)
+                        {
+                            $i=$i+1;  
                              $hasil=$angka * faktorial($angka-1);
                         }
                         return $hasil;

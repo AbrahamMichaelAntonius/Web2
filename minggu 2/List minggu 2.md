@@ -10,3 +10,5 @@
 -Break.php
 # Latihan
 -Perulangan For.php
+-Perulangan do while.php
+-Perulangan while.php
