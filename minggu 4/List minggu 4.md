@@ -1,0 +1,33 @@
+# Praktikum
+-array01.php
+-array02.php
+-array03.php
+-array04.php
+-array05.php
+-array06.php
+-array07.php
+-array08.php
+-array09.php
+-array10.php
+-fungsi01.php
+-fungsi02.php
+-fungsi03.php
+-fungsi04.php
+-fungsi05.php
+-fungsi06.php
+-string01.php
+-string02.php
+-string03.php
+-string04.php
+-string05.php
+-string06.php
+-string07.php
+-string08.php
+-string09.php
+-string10.php
+-string11.php
+-string12.php
+-string13.php
+# Latihan
+-latihan_form_input.php
+-latihan_input.php
